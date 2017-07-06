@@ -1,0 +1,3 @@
+/home/ubuntu/Desktop/gitTUT/joint_baysian/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/Desktop/gitTUT/joint_baysian/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Desktop/gitTUT/joint_baysian/build/CMakeFiles/joint_bayisan.dir
